@@ -4,6 +4,7 @@
 Conducted in-depth analysis of 10,000+ YouTube video comments to analyze sentiment and emoji usage. Integrated and analyzed data from 15+ CSV datasets to visualize video metrics and identify trends. Applied advanced NLP techniques for sentiment analysis and emoji detection.
 
 **Key Accomplishments:**
+
 1)Analyzed sentiment polarity of 10,000+ comments, categorizing them into 60% positive and 40% negative sentiments.
 
 2)Generated word clouds and statistical visualizations to illustrate sentiment distribution across 12 video categories.
